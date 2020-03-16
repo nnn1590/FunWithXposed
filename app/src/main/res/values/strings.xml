@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Fun with Xposed</string>
+    <string name="app_name" translatable="false">Fun with Xposed</string>
+    <string name="current_status_enabled">Current status: maybe enabled</string>
+    <string name="current_status_disabled">Current status: maybe disabled</string>
+
 </resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="current_status_enabled">現在の状態: おそらく有効</string>
+    <string name="current_status_disabled">現在の状態: おそらく無効</string>
+</resources>
